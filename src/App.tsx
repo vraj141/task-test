@@ -32,7 +32,7 @@ const App: FC = () => {
   };
 
   return (
-    <div className="App">
+    <div className="App" id="container">
       <div className="header">
         <div className="inputContainer">
           <input
